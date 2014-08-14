@@ -3,4 +3,4 @@ QA
 
 Quality Assurance
 
-This is a Test Repo to learn about Github
+This is a Test Repo to learn about Github. Also: turtles!
